@@ -33,3 +33,6 @@
 
 ## MORE SEO STATS
 ![image](https://user-images.githubusercontent.com/59141222/161316943-bad8cda6-1edd-4b57-807e-b5b8b3a7e86d.png)
+
+## CONCLUSION:
+In the associate web developer role, I also accomplished tasks that were assigned to me (ranging from UI improvements to payment gateway bug fixes) and most notably, implementing a reward system which is in sync with the checkout page as well. Made a profile creation page for all users which automatically updates the points based on small actions/activities like registering, logging up, referring a friend, or commenting on a blog. 
