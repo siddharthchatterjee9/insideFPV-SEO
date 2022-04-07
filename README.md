@@ -1,5 +1,5 @@
-**_----------🟥⬛⬜------------------------------------------------------------------------------------------------------------------------------------ <br /> Working as an insideFPV intern in the SEO manager and associate web developer role gave me a lot of exposure on various sub-domains including website development and marketing the content. In all, it was a wonderful experience working under the constant guidance of founder/CEO @insideFPV Arth Chowdhary.<br />------------------------------------------------------------------------------------------------------------------------------------⬛⬜🟥----------_**
-
+**_🟥⬛⬜<br /> Working as an insideFPV intern in the SEO manager and associate web developer role gave me a lot of exposure on various sub-domains including website development and marketing the content. In all, it was a wonderful experience working under the constant guidance of founder/CEO @insideFPV Arth Chowdhary.<br />_**
+ 
 ![Capture](https://user-images.githubusercontent.com/59141222/161286752-40325829-273f-4f22-ae7b-2c6f15d903dc.PNG)
 ## 🟦🟡 A personal overlook on SEO and it's benefits 🟡🟦
 * Bad SEO Reports: Filled with loads of pointless data, (or not enough data) and little/no useful advice for a client. Basically a data  dump. ❎
